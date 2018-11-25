@@ -1,4 +1,13 @@
-# Fantasy map generator
+# Degenesis terrain sensitive settlement generator
+
+This is very much a WIP
+
+Import height data from here TBC
+
+Main ref: [@Mewo2](https://github.com/mewo2/)
+---------
+Original README from mewo below
+
 
 This is code for generating fantasy maps, using the algorithm behind [@unchartedatlas][uncharted]. For more details, see [these notes][notes].
 
